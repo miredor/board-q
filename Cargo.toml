@@ -1,0 +1,9 @@
+[package]
+name = "quest-board"
+version = "0.1.0"
+edition = "2021"
+description = "A tiny fantasy-flavored CLI quest tracker"
+authors = ["OpenAI"]
+license = "MIT"
+
+[dependencies]
